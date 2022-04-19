@@ -2,6 +2,8 @@
 
 > This is a React app to track wildfires and plot them on a Google map.
 
+Use google cloud console to create your own API key for JavaScript.
+
 ## Usage
 
 ```
